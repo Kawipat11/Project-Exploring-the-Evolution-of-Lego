@@ -2,7 +2,10 @@
 project from datacamp
 
 Use a variety of data manipulation techniques to explore different aspects of Lego's history
+
 **Instructions**
+
+
 Welcome to the Python project Exploring the Evolution of Lego!
 You are a Data Analyst at Lego working with the Sales/Customer Success teams. The Account Executive responsible for the Star Wars partnership has asked for specific information in preparation for their meeting with the Star Wars team. Although Star Wars was critical to the survival of the brand, Lego has since introduced a wide variety of licensed sets over subsequent years.
 
